@@ -24,7 +24,7 @@ stat_category_table_file = askopenfilename(title = "Choose statistical category 
 
 driver = webdriver.Chrome("c:/Users/hsteel01.TUFTS/chromedriver.exe")
 
-driver.get("https://sandbox01-na.alma.exlibrisgroup.com/institution/01TUN_INST&auth=local")
+driver.get("https://tufts-psb.alma.exlibrisgroup.com")
 
 element = login(driver, secrets.username, secrets.password)
 
@@ -56,7 +56,7 @@ for row in table_reader:
 
     while True:
       try:
-        time.sleep(2)
+        time.sleep(1)
         actions = ActionChains(driver)
         # actions.move_to_element(button_element)
         actions.move_to_element(button_element).click().perform();

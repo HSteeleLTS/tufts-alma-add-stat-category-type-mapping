@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+	<user>
+		<record_type desc="Public">PUBLIC</record_type>
+		<primary_id>1814147950003851</primary_id>
+		<first_name>For Roles</first_name>
+		<middle_name/>
+		<last_name>LTS Systems</last_name>
+		<full_name>For Roles LTS Systems</full_name>
+		<user_title desc=""/>
+		<job_category desc=""/>
+		<job_description/>
+		<gender desc=""/>
+		<user_group desc="Staff">Staff</user_group>
+		<campus_code desc="Medford Campus">Medford</campus_code>
+		<web_site_url/>
+		<cataloger_level desc="[00] Default Level">00</cataloger_level>
+		<preferred_language desc="English">en</preferred_language>
+		<expiry_date>2030-12-31Z</expiry_date>
+		<purge_date>2030-12-31Z</purge_date>
+		<account_type desc="Internal">INTERNAL</account_type>
+		<external_id/>
+		<password/>
+		<force_password_change/>
+		<status desc="Active">ACTIVE</status>
+		<status_date>2018-12-05Z</status_date>
+		<contact_info>
+			<addresses/>
+			<emails>
+				<email preferred="true" segment_type="Internal">
+					<email_address>tulips@tufts.edu</email_address>
+					<email_types>
+						<email_type desc="Work">work</email_type>
+					</email_types>
+				</email>
+			</emails>
+			<phones/>
+		</contact_info>
+		<pref_first_name/>
+		<pref_middle_name/>
+		<pref_last_name/>
+		<pref_name_suffix/>
+		<is_researcher>false</is_researcher>
+		<user_identifiers/>
+		<user_roles>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Fund Manager">36</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="API Infra Read">238</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="API Label Printing Read">232</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="API Resource Management Read">235</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="API User Information Read">233</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="API User Information Write">234</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Analytics Administrator">2200</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Designs Analytics">220</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Discovery - Admin">300</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Fund-Ledger Viewer">245</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Invoice Manager">44</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Invoice Operator">43</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Invoice Operator Extended">48</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Ledger Manager">34</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="General System Administrator">26</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="SDK Write">222</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Patron">200</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Fiscal Period Manager">45</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Letter Administrator">57</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Repository Manager">29</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Catalog Administrator">205</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Catalog Manager">206</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Cataloger">204</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Cataloger Extended">227</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="API Analytics Read">372</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="API Fulfillment Read">223</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="API Fulfillment Write">236</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="License Manager">41</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="License Viewer">58</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Purchase Request Manager">247</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Purchase Request Operator">246</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Purchase Request Operator Extended">248</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Purchasing Manager">55</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="User Administrator">50</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="User Manager">21</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Acquisitions Administrator">56</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Purchasing Operator Extended">47</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Receiving Operator">37</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Receiving Operator Limited">371</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Selector">46</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Selector Extended">243</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Trial Manager">217</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Trial Operator">216</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Trial Participant">218</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Usage Data Operator">244</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Vendor Manager">33</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope/>
+				<role_type desc="Circulation Desk Manager">221</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope/>
+				<role_type desc="Circulation Desk Operator">32</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope/>
+				<role_type desc="Circulation Desk Operator - Limited">299</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Course Reserves Manager">231</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Course Reserves Operator">230</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Fulfillment Administrator">52</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Fulfillment Services Manager">215</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Fulfillment Services Operator">38</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Instructor">240</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Leganto Course Operator">249</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope/>
+				<role_type desc="Patron">200</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Purchasing Operator">54</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope/>
+				<role_type desc="Requests Operator">51</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Resource Sharing Partners Manager">239</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Work Order Operator">214</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Collection Inventory Operator">228</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Collection Inventory Operator Extended">229</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Deposit Manager">0</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Deposit Operator">1</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Deposit Operator Extended">2</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Digital Inventory Operator">12</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Digital Inventory Operator Extended">226</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Electronic Inventory Operator">209</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Electronic Inventory Operator Extended">224</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Physical Inventory Operator">210</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Inactive">INACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Physical Inventory Operator Extended">225</role_type>
+				<parameters/>
+			</user_role>
+			<user_role>
+				<status desc="Active">ACTIVE</status>
+				<scope desc="Tufts University">01TUN_INST</scope>
+				<role_type desc="Repository Administrator">53</role_type>
+				<parameters/>
+			</user_role>
+		</user_roles>
+		<user_blocks/>
+		<user_notes/>
+		<user_statistics/>
+		<proxy_for_users/>
+	</user>
+</users>

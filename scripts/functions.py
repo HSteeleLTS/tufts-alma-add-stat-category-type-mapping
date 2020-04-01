@@ -64,6 +64,7 @@ def enter_values(driver, row, file, success_counter, failure_counter):
 
         driver.find_element_by_link_text(row[0]).click()
 
+        print("Major: " + str(row[0]))
         time.sleep(.5)
 
 
