@@ -32,13 +32,14 @@ def navigate_to_table(driver):
 
     config_element.click()
 
-    url = "#CONF_MENU5"
+    url = "#CONF_MENU7"
 
+    time.sleep(2)
     user_mgmt_element = driver.find_element_by_xpath('//a[@href="'+url+'"]')
 
     user_mgmt_element.click()
 
-    mapping_table_div_id = "CONF_MENU5_2"
+    mapping_table_div_id = "CONF_MENU7_2"
 
     mapping_table_element = driver.find_element_by_id(mapping_table_div_id).find_element_by_xpath(".//a[8]")
 
@@ -58,11 +59,27 @@ def enter_values(driver, row, file, success_counter, failure_counter):
 
         code_element = driver.find_element_by_id(category_id)
 
-        driver.find_element_by_id("pageBeannewRowrowtargetCode_hiddenSelect_button").click()
-
         time.sleep(.5)
+        driver.find_element_by_id("pageBeannewRowrowtargetCode").send_keys(row[0])
 
-        driver.find_element_by_link_text(row[0]).click()
+        #time.sleep(.5)
+
+        #driver.find_element_by_id("pageBeannewRowrowtargetCode_hiddenSelect_button").click()
+        # driver.find_element_by_id("pageBeannewRowrowtargetCode_hiddenSelect").click()
+
+
+        #time.sleep(.5)
+
+        select_list = driver.find_element_by_id("pageBeannewRowrowtargetCode_hiddenSelect_list")
+        # drop_down_major = driver.find_element_by_id('id_of_element')
+        select_list.find_element_by_xpath("li[@title='" + row[0] + "']/a").click()
+        #select_list.find_element_by_link_text(row[0]).click()
+
+        #driver.find_element_by_xpath("li[@title='"  + row[0] + "']/a")
+
+        #time.sleep(1)
+
+
 
         print("Major: " + str(row[0]))
         time.sleep(.5)
@@ -70,7 +87,7 @@ def enter_values(driver, row, file, success_counter, failure_counter):
 
         select = Select(driver.find_element_by_id(type_id))
 
-        time.sleep(.5)
+        #time.sleep(1)
         select.select_by_visible_text(row[1])
 
 

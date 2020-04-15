@@ -44,9 +44,9 @@ success_counter = 0
 
 failure_counter = 0
 
-time.sleep(.5)
+time.sleep(1.5)
 for row in table_reader:
-    time.sleep(.5)
+    time.sleep(1)
     # driver.send_keys(Keys.PAGE_UP)
 
     driver.execute_script("window.scrollTo(0, 0)")
@@ -56,7 +56,7 @@ for row in table_reader:
 
     while True:
       try:
-        time.sleep(1)
+        time.sleep(.5)
         actions = ActionChains(driver)
         # actions.move_to_element(button_element)
         actions.move_to_element(button_element).click().perform();

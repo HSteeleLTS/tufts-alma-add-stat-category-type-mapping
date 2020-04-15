@@ -1,0 +1,222 @@
+Statistical Category	Status
+MD/MBA Combined	Success
+MD/MPH (Maine Track)	Success
+MD/MPH (TUSM)	Success
+MD/PhD Undeclared	Success
+MDPHD (Sackler)	Success
+Mech Eng: MatSci&Eng (PhD)	Success
+Mechanical Engineering	Success
+Mechanical Engineering (BSE)	Success
+Mechanical Engineering (BSME)	Success
+Mechanical Engineering (ME)	Success
+Mechanical Engineering (MS)	Success
+Mechanical Engineering (PHD)	Success
+MechEng:HRI (MS)	Success
+MechEng:HRI (PhD)	Success
+Medicine-MD	Success
+Medicine-Maine Track	Success
+Mgt.Community Orgs. (CERT)	Success
+Microwave&Wireless Eng. (CERT)	Success
+Middle Eastern Studies	Success
+Middle Eastern Studies (BA)	Success
+Molecular Microbio (MD/PHD)	Success
+Molecular Microbio MERGE (PHD)	Success
+Molecular Microbio Mol Genetic	Success
+Molecular Microbiology (MS)	Success
+Molecular Microbiology (PHD)	Success
+MS in Dental Research	Success
+MS-Nutrition/MPH (Half-Time)	Success
+Museum Education (MA)	Success
+Museum High School Student	Success
+Museum Studies (CERT)	Success
+Music	Success
+Music (BA)	Success
+Music (MA)	Success
+N/A-Cert. Biotechnology	Success
+NEC cross registration	Success
+Neuroscience (MD/PHD)	Success
+Neuroscience (MS)	Success
+Neuroscience (PhD)	Success
+New England Conservatory	Success
+No Major	Success
+No Major (BS)	Success
+No Major (NDG)	Success
+Non-Degree-SK	Success
+Non-degree-NU	Success
+Non-Degree Student	Success
+None-PHD	Success
+None-MS	Success
+NONE	Success
+Non-Matric Dev & Reg Human The	Success
+Non-Matriculated (HCOM)	Success
+Non-Matriculated (PREP)	Success
+Non-Matriculated Student	Success
+Nutr for Cooks & Culin Profess	Success
+Nutr Ind Prof Entrepreneurship	Success
+Nutr Sci for Comm Professional	Success
+Nutri Sci for Hlth Profession	Success
+Nutrition Communication	Success
+Nutrition Communication (MS)	Success
+Nutrition Communication (PhD)	Success
+Nutritional Epidemiology	Success
+Nutritional Epidemiology (MS)	Success
+Nutritional Epidemiology (PHD)	Success
+Occupational Therapy (CERT)	Success
+Occupational Therapy (MS)	Success
+Occupational Therapy (OTD)	Success
+Occupational Therapy EL (OTD)	Success
+One Year Internship	Success
+Oral Medicine	Success
+Oral Pathology (MS)	Success
+Oral Surgery-CERT	Success
+Oral Surgery-NON	Success
+Oral Surgery (MS)	Success
+Orofacial Pain	Success
+Orthodontics	Success
+Orthodontics (MS)	Success
+Pain, Research, Educ & Policy	Success
+Pain, Rsrch, Ed & Policy (MS)	Success
+Peace And Justice Studies	Success
+Peace And Justice Studies (BA)	Success
+Pediatric Dentistry	Success
+Pediatric Dentistry (MS)	Success
+Periodontology	Success
+Periodontology (MS)	Success
+Pharm & Drug Dev (MS)	Success
+Pharm & Exper Therap (MD/PHD)	Success
+Pharm & Exper Therap (MS)	Success
+Pharm & Exper Therap (PHD)	Success
+PHD Biomedical Sciences	Success
+Philosophy	Success
+Philosophy (BA)	Success
+Philosophy (MA)	Success
+Physician Assistant Pgrm (MS)	Success
+Physics	Success
+Physics (BA)	Success
+Physics (BS)	Success
+Physics (MS)	Success
+Physics (PHD)	Success
+Physics: Astrophysics (MS)	Success
+Physics: Astrophysics (PhD)	Success
+Physics: Chem. Phy. (PHD)	Success
+Physics: Physics Ed (PHD)	Success
+Physics:Physics Education (MS)	Success
+Plan Of Study	Success
+Plan Of Study (BA)	Success
+Plan Of Study (BS)	Success
+Political Science	Success
+Political Science (BA)	Success
+Political Science (BS)	Success
+Post Baccalaureate Certificate	Success
+Post-Bac Civ/Env/Eng Prg.	Success
+Post-Bac Computer Sci. Prg	Success
+Post-Bac Mathematics Program	Success
+Post-Bac Premedical Program	Success
+Post-Doctoral Fellow	Success
+Pre-Dental Non-Degree Plan	Success
+PREP/NE School of Acupunc (MS)	Success
+Program Evaluation (CERT)	Success
+Prosthodontics-CERT	Success
+Prosthodontics-FC	Success
+Prosthodontics (MS)	Success
+Psychology	Success
+Psychology (BA)	Success
+Psychology (BS)	Success
+Psychology (MS)	Success
+Psychology (PHD)	Success
+Psychology/Clinical	Success
+Psychology/Clinical (BA)	Success
+Psychology/Clinical (BS)	Success
+Psychology: Cognitive Sci(PHD)	Success
+Public Policy (MPP)	Success
+Quantitative Economics	Success
+Quantitative Economics (BA)	Success
+Quantitative Economics (BS)	Success
+Religion	Success
+Religion (BA)	Success
+Ross University Student	Success
+Russian	Success
+Russian & E European Stud (BA)	Success
+Russian & E European Studies	Success
+Russian (BA)	Success
+Russian Language & Literature	Success
+Sackler Visiting Student	Success
+School Psychology (EDS)	Success
+School Psychology (MA)	Success
+School-Based Practice (CERT)	Success
+Sci, Tech,  and Society (BA)	Success
+Sci, Tech, and Society	Success
+Sci, Tech, and Society (BS)	Success
+Science Education (CERT)	Success
+Security Studies Fellows Prog.	Success
+Sleep Medicine Program	Success
+SMFA - Continuing Education	Success
+SMFA Diploma	Success
+SMFA Diploma (grandfathered)	Success
+SMFA Exchange Grad (gr)	Success
+SMFA Exchange Undergrad	Success
+SMFA Exchange Undergrad (gr)	Success
+SMFA Grad Exchange	Success
+SMFA Graphic Design Cert	Success
+SMFA Graphic Design Cert (gr)	Success
+SMFA Illustration Cert (gr)	Success
+SMFA Illustration Certificate	Success
+SMFA Postbac	Success
+SMFA Postbac (grandfathered)	Success
+SMFA/NEU Grad (gr)	Success
+SMFA/NEU Students	Success
+SMFA/NEU Undergrad (gr)	Success
+Sociology	Success
+Sociology (BA)	Success
+Sociology (BS)	Success
+Span&LatinAmerCultureSt(CERT)	Success
+Spanish	Success
+Spanish (BA)	Success
+Spanish for Health Prof (CERT)	Success
+Special Dental	Success
+Special Fellowship	Success
+Special Studies-NP1	Success
+Special Studies-NP2	Success
+Special Visiting Graduate Stdn	Success
+State Department Fellow	Success
+Studio Art-FA-MJR2	Success
+Studio Art-MUSM-MJR2	Success
+Studio Art-MUSM-NDG	Success
+Studio Art (BFA)-MUSM	Success
+Studio Art (BFA)-MU	Success
+Studio Art (BFA)-MG	Success
+Studio Art (BSED)	Success
+Studio Art (MFA)	Success
+Summer	Success
+Summer - Alumni Auditor	Success
+Summer - Engineering	Success
+Summer Institute- Undergrad	Success
+Summer Institute-Graduate Lvl	Success
+Summer/Community Auditor	Success
+Sustainability (MS)	Success
+Sustainable Ag. & Food Systems	Success
+Sustainable Water Management	Success
+Teaching the Great Diseases	Success
+Temporomandibular Disorder(MS)	Success
+Theatre&Performance Study (MA)	Success
+Theatre&Performance Study(PHD)	Success
+Tufts Gordon Institute-TGIU-NDG	Success
+Tufts Gordon Institute-TGI-NDG	Success
+UEP/Biology (MS)	Success
+UEP/Civil Eng. (MS)	Success
+UEP/CSHD (MA)	Success
+UEP/Economics (MS)	Success
+Undecided-SSNON-NDG	Success
+Undecided-U-MJR2	Success
+Undecided-SSNOG-NDG	Success
+Undecided-U-NDG	Success
+Undecided-SUNON-NDG	Success
+Undecided (BA)	Success
+Undecided (BS)	Success
+Urban And Environmental Policy	Success
+Urban Justice & Sustain (CERT)	Success
+Urban&Env Policy & Plan (MA)	Success
+Veterinary Medicine	Success
+Visiting Graduate Student	Success
+Water: Sys, Sci & Soc (CERT)	Success
+Women's,Gender,&Sexuality (BA)	Failure - enter manually
